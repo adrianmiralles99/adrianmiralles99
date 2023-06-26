@@ -1,5 +1,5 @@
 Soy Adrián Miralles Gómez.
-Esta cuenta de github está creada principalmente para poder almacenar todos los códigos de proyectos que he realizado tanto en el grado superior como for fun.
+Esta cuenta de github está creada principalmente para poder almacenar todos los códigos de proyectos que he realizado tanto en el grado superior como de forma particular.
 
 
 <!---
